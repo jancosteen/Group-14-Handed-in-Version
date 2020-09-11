@@ -1,0 +1,423 @@
+2020-09-10 08:26:55.9741 INFO Returned user with id: jancosteen
+2020-09-10 08:27:01.8147 INFO Returned all restaurants from db.
+2020-09-10 08:28:45.7863 INFO Returned all restaurants from db.
+2020-09-10 08:28:51.5524 INFO Returned restaurant with id: 300
+2020-09-10 08:28:56.6743 INFO menu with details for id: 300
+2020-09-10 08:39:28.6258 INFO Returned user with id: jancosteen
+2020-09-10 08:39:39.4705 INFO Returned all restaurants from db.
+2020-09-10 08:39:46.3754 INFO Returned restaurant with id: 300
+2020-09-10 08:39:50.1196 INFO menu with details for id: 300
+2020-09-10 08:41:43.9204 INFO Returned user with id: jancosteen
+2020-09-10 08:42:17.3845 INFO Returned user with id: jancosteen
+2020-09-10 08:43:19.7214 INFO Returned user with id: jancosteen
+2020-09-10 08:43:59.9427 INFO Returned user with id: jancosteen
+2020-09-10 08:44:02.7680 INFO Returned all restaurants from db.
+2020-09-10 08:44:08.6837 INFO Returned restaurant with id: 300
+2020-09-10 08:44:11.9345 INFO menu with details for id: 300
+2020-09-10 08:44:47.0111 INFO Returned user with id: jancosteen
+2020-09-10 08:44:49.8239 INFO Returned all restaurants from db.
+2020-09-10 08:44:56.1688 INFO Returned restaurant with id: 300
+2020-09-10 08:44:59.3553 INFO menu with details for id: 300
+2020-09-10 08:46:19.7606 INFO Returned user with id: jancosteen
+2020-09-10 08:46:22.9028 INFO Returned all restaurants from db.
+2020-09-10 08:46:28.8468 INFO Returned restaurant with id: 300
+2020-09-10 08:46:34.4935 INFO menu with details for id: 300
+2020-09-10 08:46:37.5782 INFO Returned all restaurants from db.
+2020-09-10 08:46:54.3559 INFO Returned restaurant with id: 840
+2020-09-10 08:46:57.3930 INFO menu with details for id: 840
+2020-09-10 08:47:00.9874 INFO Returned all restaurants from db.
+2020-09-10 08:47:06.2964 INFO Returned restaurant with id: 300
+2020-09-10 08:47:08.8255 INFO menu with details for id: 300
+2020-09-10 09:03:34.2884 INFO Returned user with id: jancosteen
+2020-09-10 09:03:40.5381 INFO Returned all restaurants from db.
+2020-09-10 09:03:46.6929 INFO Returned all restaurants from db.
+2020-09-10 09:04:16.7085 INFO Returned user with id: jancosteen
+2020-09-10 09:04:19.1813 INFO Returned all restaurants from db.
+2020-09-10 09:04:25.6794 INFO Returned restaurant with id: 300
+2020-09-10 09:04:29.4208 INFO Returned all restaurants from db.
+2020-09-10 09:07:57.1996 INFO Returned user with id: jancosteen
+2020-09-10 09:08:02.7479 INFO Returned all restaurants from db.
+2020-09-10 09:08:19.8021 INFO Returned all restaurants from db.
+2020-09-10 09:08:25.7472 INFO Returned restaurant with id: 300
+2020-09-10 09:08:29.2664 INFO Returned all restaurants from db.
+2020-09-10 09:12:30.5590 INFO Returned user with id: jancosteen
+2020-09-10 09:12:32.1804 INFO Returned all restaurants from db.
+2020-09-10 09:12:37.4041 INFO Returned all restaurants from db.
+2020-09-10 09:13:14.3719 INFO Returned user with id: jancosteen
+2020-09-10 09:13:20.2454 INFO Returned all restaurants from db.
+2020-09-10 09:13:26.6061 INFO Returned restaurant with id: 300
+2020-09-10 09:13:30.4653 INFO Returned all restaurants from db.
+2020-09-10 09:16:09.5251 INFO Returned user with id: jancosteen
+2020-09-10 09:16:20.2390 INFO Returned all restaurants from db.
+2020-09-10 09:27:15.6328 ERROR Something went wrong inside CreateQrCodeSeating action: Cannot insert duplicate key row in object 'dbo.QrCode_Seating' with unique index 'AK_QrCode_Seating_QrCode_Id_FK'. The duplicate key value is (15).
+The statement has been terminated.
+2020-09-10 09:36:40.5432 INFO Returned user with id: jancosteen
+2020-09-10 09:37:36.6857 INFO Returned user with id: jancosteen
+2020-09-10 09:38:37.1737 INFO Returned all restaurants from db.
+2020-09-10 09:41:03.8369 INFO Returned user with id: jancosteen
+2020-09-10 09:41:13.7270 ERROR Something went wrong inside CreateQrCodeSeating action: The INSERT statement conflicted with the FOREIGN KEY constraint "QrCode_Seating_Seating_FK". The conflict occurred in database "OrderMateDBFinal", table "dbo.Seating", column 'SeatingId'.
+The statement has been terminated.
+2020-09-10 09:41:13.8358 INFO Returned all restaurants from db.
+2020-09-10 09:45:13.7315 INFO Returned all qrCodes from db.
+2020-09-10 09:46:59.5563 INFO Returned all qrCodeSeatings records from database
+2020-09-10 09:51:05.2758 ERROR restaurant with id: 1002, hasn't been found in db.
+2020-09-10 09:51:16.4835 ERROR restaurant with id: 1001, hasn't been found in db.
+2020-09-10 09:51:24.1814 ERROR restaurant with id: 1002, hasn't been found in db.
+2020-09-10 09:51:35.6876 INFO Returned qrCode with id: 1002
+2020-09-10 09:51:39.7912 INFO Returned qrCode with id: 1001
+2020-09-10 09:51:59.2274 ERROR restaurant with id: 1001, hasn't been found in db.
+2020-09-10 09:57:50.0889 INFO Returned restaurant with id: 991
+2020-09-10 10:16:32.3431 INFO Returned restaurant with id: 991
+2020-09-10 10:17:23.9595 INFO Returned all qrCodes from db.
+2020-09-10 10:18:18.8952 INFO Returned all seatings from db.
+2020-09-10 10:21:37.8861 INFO Returned user with id: jancosteen
+2020-09-10 10:23:03.7570 INFO Returned user with id: jancosteen
+2020-09-10 10:23:11.2945 ERROR Something went wrong inside CreateQrCodeSeating action: Violation of PRIMARY KEY constraint 'QrCode_Seating_PK'. Cannot insert duplicate key in object 'dbo.QrCode_Seating'. The duplicate key value is (1005, 1005).
+The statement has been terminated.
+2020-09-10 10:24:13.4451 INFO Returned all qrCodes from db.
+2020-09-10 10:29:58.2072 INFO Returned all seatings from db.
+2020-09-10 10:31:40.1856 INFO Returned user with id: jancosteen
+2020-09-10 10:38:46.0643 INFO Returned qrCode with id: 1
+2020-09-10 10:48:31.5623 INFO Returned user with id: jancosteen
+2020-09-10 10:49:47.6793 INFO Returned all seatings from db.
+2020-09-10 10:50:41.5230 INFO Returned user with id: jancosteen
+2020-09-10 10:52:11.6520 INFO Returned all qrCodes from db.
+2020-09-10 10:54:19.7928 INFO Returned user with id: jancosteen
+2020-09-10 10:55:44.2006 INFO Returned user with id: jancosteen
+2020-09-10 11:03:22.5025 INFO Returned user with id: jancosteen
+2020-09-10 11:03:47.9033 INFO Returned user with id: jancosteen
+2020-09-10 11:12:31.0212 INFO Returned user with id: jancosteen
+2020-09-10 11:37:56.6652 INFO Returned user with id: jancosteen
+2020-09-10 11:38:10.6270 ERROR restaurant with id: 1014, hasn't been found in db.
+2020-09-10 11:41:06.3612 INFO Returned qrCode with id: 1014
+2020-09-10 11:41:33.1232 ERROR restaurant with id: 1014, hasn't been found in db.
+2020-09-10 11:42:00.4925 INFO Returned restaurant with id: 2
+2020-09-10 11:43:44.9189 INFO Returned restaurant with id: 2
+2020-09-10 11:43:52.9782 ERROR restaurant with id: 1001, hasn't been found in db.
+2020-09-10 11:48:36.5453 ERROR restaurant with id: 1010, hasn't been found in db.
+2020-09-10 11:48:41.3082 INFO Returned restaurant with id: 2
+2020-09-10 11:48:49.9652 INFO Returned restaurant with id: 3
+2020-09-10 11:49:11.9184 INFO Returned restaurant with id: 1
+2020-09-10 11:50:01.5848 ERROR restaurant with id: 1000, hasn't been found in db.
+2020-09-10 11:50:06.1356 INFO Returned restaurant with id: 999
+2020-09-10 11:50:29.7882 INFO Returned restaurant with id: 318
+2020-09-10 12:18:34.2396 INFO Returned user with id: jancosteen
+2020-09-10 12:20:28.1443 INFO Returned user with id: jancosteen
+2020-09-10 12:20:46.7028 INFO Returned all restaurants from db.
+2020-09-10 12:21:03.5892 INFO Returned restaurant with id: 300
+2020-09-10 12:21:07.7907 INFO Returned all restaurants from db.
+2020-09-10 12:21:27.7618 INFO Returned all restaurants from db.
+2020-09-10 12:21:35.9995 INFO Returned restaurant with id: 300
+2020-09-10 12:21:39.9617 INFO menu with details for id: 300
+2020-09-10 12:44:27.7288 INFO restaurant with details for id: 1
+2020-09-10 12:47:54.4120 INFO restaurant with details for id: 1
+2020-09-10 12:48:50.4101 INFO restaurant with details for id: 1
+2020-09-10 12:49:17.5721 INFO Returned restaurant with id: 1
+2020-09-10 12:49:34.3254 ERROR restaurant with id: 1001, hasn't been found in db.
+2020-09-10 12:50:33.1214 INFO restaurant with details for id: 1
+2020-09-10 12:53:31.5876 INFO qrCode with details for id: 1
+2020-09-10 12:55:42.7133 INFO qrCode with details for id: 1001
+2020-09-10 13:01:12.2860 INFO Returned user with id: jancosteen
+2020-09-10 13:02:45.5025 INFO qrCode with details for id: 1015
+2020-09-10 13:02:47.1432 INFO qrCode with details for id: 1015
+2020-09-10 13:02:49.3735 INFO qrCode with details for id: 1015
+2020-09-10 13:02:49.8940 INFO qrCode with details for id: 1015
+2020-09-10 13:02:50.3820 INFO qrCode with details for id: 1015
+2020-09-10 13:05:16.9741 INFO Returned user with id: jancosteen
+2020-09-10 13:05:41.5919 INFO Returned user with id: jancosteen
+2020-09-10 13:05:51.0339 INFO Returned all restaurants from db.
+2020-09-10 13:06:06.2475 INFO qrCode with details for id: 1016
+2020-09-10 13:08:47.8542 INFO Returned user with id: jancosteen
+2020-09-10 13:09:05.9389 INFO qrCode with details for id: 1017
+2020-09-10 13:12:07.1781 INFO Returned user with id: jancosteen
+2020-09-10 13:12:32.8902 INFO qrCode with details for id: 1018
+2020-09-10 13:14:46.1667 INFO Returned user with id: jancosteen
+2020-09-10 13:14:58.6105 INFO qrCode with details for id: 1019
+2020-09-10 13:22:23.2929 INFO Returned user with id: jancosteen
+2020-09-10 13:22:36.4658 ERROR Something went wrong inside CreateQrCodeSeating action: Violation of PRIMARY KEY constraint 'QrCode_Seating_PK'. Cannot insert duplicate key in object 'dbo.QrCode_Seating'. The duplicate key value is (1019, 1019).
+The statement has been terminated.
+2020-09-10 13:54:01.9057 INFO Returned user with id: jancosteen
+2020-09-10 13:56:49.5408 INFO Returned user with id: jancosteen
+2020-09-10 14:00:07.3486 INFO Returned user with id: jancosteen
+2020-09-10 14:02:29.0676 INFO Returned user with id: jancosteen
+2020-09-10 14:02:50.2174 INFO qrCode with details for id: 1023
+2020-09-10 14:02:51.0013 INFO qrCode with details for id: 1023
+2020-09-10 14:04:00.5537 INFO Returned user with id: jancosteen
+2020-09-10 14:04:45.2529 INFO qrCode with details for id: 1023
+2020-09-10 14:05:15.3847 INFO Returned user with id: jancosteen
+2020-09-10 14:05:27.1504 INFO qrCode with details for id: 1023
+2020-09-10 14:07:14.6621 INFO Returned user with id: jancosteen
+2020-09-10 14:07:24.0437 ERROR qrCode with id: 1024, hasn't been found in db.
+2020-09-10 14:07:48.8127 ERROR qrCode with id: 1024, hasn't been found in db.
+2020-09-10 14:07:52.1086 INFO qrCode with details for id: 1023
+2020-09-10 14:08:05.1777 INFO qrCode with details for id: 1023
+2020-09-10 14:08:15.8646 INFO qrCode with details for id: 1023
+2020-09-10 14:08:15.9321 INFO Returned restaurant with id: 2
+2020-09-10 14:08:28.1874 INFO menu with details for id: 2
+2020-09-10 14:08:34.4660 INFO Returned order with id: 1020
+2020-09-10 14:09:17.0716 INFO Returned user with id: jancosteen
+2020-09-10 14:09:27.1844 INFO qrCode with details for id: 1024
+2020-09-10 14:09:28.0167 INFO qrCode with details for id: 1024
+2020-09-10 14:09:28.0464 INFO Returned restaurant with id: 2
+2020-09-10 14:11:17.8779 INFO Returned user with id: jancosteen
+2020-09-10 14:11:39.2697 INFO qrCode with details for id: 1024
+2020-09-10 14:11:39.4746 INFO qrCode with details for id: 1024
+2020-09-10 14:11:39.5156 INFO Returned restaurant with id: 2
+2020-09-10 14:15:47.6580 INFO Returned user with id: jancosteen
+2020-09-10 14:16:00.2692 INFO qrCode with details for id: 1024
+2020-09-10 14:16:00.4729 INFO qrCode with details for id: 1024
+2020-09-10 14:16:00.5151 INFO Returned restaurant with id: 2
+2020-09-10 14:17:24.3992 INFO Returned user with id: jancosteen
+2020-09-10 14:17:33.4435 INFO qrCode with details for id: 1024
+2020-09-10 14:17:33.4729 ERROR Something went wrong inside CreateQrCodeSeating action: Violation of PRIMARY KEY constraint 'QrCode_Seating_PK'. Cannot insert duplicate key in object 'dbo.QrCode_Seating'. The duplicate key value is (1024, 1024).
+The statement has been terminated.
+2020-09-10 14:17:33.6468 INFO qrCode with details for id: 1024
+2020-09-10 14:17:33.6468 ERROR Something went wrong inside CreateQrCodeSeating action: Violation of PRIMARY KEY constraint 'QrCode_Seating_PK'. Cannot insert duplicate key in object 'dbo.QrCode_Seating'. The duplicate key value is (1024, 1024).
+The statement has been terminated.
+2020-09-10 14:17:33.7090 INFO Returned restaurant with id: 2
+2020-09-10 14:19:33.2801 ERROR Something went wrong inside CreateQrCodeSeating action: Violation of PRIMARY KEY constraint 'QrCode_Seating_PK'. Cannot insert duplicate key in object 'dbo.QrCode_Seating'. The duplicate key value is (1024, 1024).
+The statement has been terminated.
+2020-09-10 14:20:35.2210 INFO Returned user with id: jancosteen
+2020-09-10 14:20:50.3019 INFO qrCode with details for id: 1023
+2020-09-10 14:20:50.5111 ERROR Something went wrong inside CreateQrCodeSeating action: Violation of PRIMARY KEY constraint 'QrCode_Seating_PK'. Cannot insert duplicate key in object 'dbo.QrCode_Seating'. The duplicate key value is (1023, 1023).
+The statement has been terminated.
+2020-09-10 14:20:50.5266 INFO qrCode with details for id: 1023
+2020-09-10 14:20:50.5472 INFO Returned restaurant with id: 2
+2020-09-10 14:22:30.5123 INFO qrCode with details for id: 1025
+2020-09-10 14:22:32.2933 INFO qrCode with details for id: 1025
+2020-09-10 14:22:32.2933 ERROR Something went wrong inside CreateQrCodeSeating action: Violation of PRIMARY KEY constraint 'QrCode_Seating_PK'. Cannot insert duplicate key in object 'dbo.QrCode_Seating'. The duplicate key value is (1025, 1025).
+The statement has been terminated.
+2020-09-10 14:25:31.9109 INFO qrCode with details for id: 1025
+2020-09-10 14:25:31.9109 ERROR Something went wrong inside CreateQrCodeSeating action: Cannot insert duplicate key row in object 'dbo.QrCode_Seating' with unique index 'AK_QrCode_Seating_QrCode_Id_FK'. The duplicate key value is (1025).
+The statement has been terminated.
+2020-09-10 14:25:36.0207 ERROR Something went wrong inside CreateQrCodeSeating action: Cannot insert duplicate key row in object 'dbo.QrCode_Seating' with unique index 'AK_QrCode_Seating_QrCode_Id_FK'. The duplicate key value is (1025).
+The statement has been terminated.
+2020-09-10 14:25:36.0207 INFO qrCode with details for id: 1025
+2020-09-10 14:25:53.1102 ERROR Something went wrong inside CreateQrCodeSeating action: Cannot insert duplicate key row in object 'dbo.QrCode_Seating' with unique index 'AK_QrCode_Seating_QrCode_Id_FK'. The duplicate key value is (1024).
+The statement has been terminated.
+2020-09-10 15:18:47.9264 INFO menu with details for id: 2
+2020-09-10 15:19:01.6325 INFO Returned order with id: 1021
+2020-09-10 15:38:15.3226 INFO Returned user with id: jancosteen
+2020-09-10 15:39:07.3254 ERROR Something went wrong inside CreateQrCodeSeating action: Violation of PRIMARY KEY constraint 'QrCode_Seating_PK'. Cannot insert duplicate key in object 'dbo.QrCode_Seating'. The duplicate key value is (1025, 1025).
+The statement has been terminated.
+2020-09-10 15:39:07.3636 INFO qrCode with details for id: 1025
+2020-09-10 15:39:07.5884 INFO qrCode with details for id: 1025
+2020-09-10 15:39:07.5884 ERROR Something went wrong inside CreateQrCodeSeating action: Violation of PRIMARY KEY constraint 'QrCode_Seating_PK'. Cannot insert duplicate key in object 'dbo.QrCode_Seating'. The duplicate key value is (1025, 1025).
+The statement has been terminated.
+2020-09-10 15:39:07.6113 INFO Returned restaurant with id: 2
+2020-09-10 15:39:13.7937 INFO menu with details for id: 2
+2020-09-10 15:39:18.8447 INFO Returned order with id: 1022
+2020-09-10 15:44:32.8021 INFO Returned all users from db.
+2020-09-10 15:57:56.5162 INFO Returned all users from db.
+2020-09-10 15:58:20.1136 INFO Returned user with id: Lusanda123
+2020-09-10 16:01:03.4788 INFO Returned user with id: jancosteen
+2020-09-10 16:01:07.0116 INFO Returned all restaurants from db.
+2020-09-10 16:01:13.4686 INFO Returned restaurant with id: 300
+2020-09-10 16:01:16.4772 INFO menu with details for id: 300
+2020-09-10 16:01:18.4432 INFO Returned all restaurants from db.
+2020-09-10 16:02:26.2420 INFO Returned restaurant with id: 300
+2020-09-10 16:02:29.4732 INFO menu with details for id: 300
+2020-09-10 16:02:55.4510 INFO Returned user with id: jancosteen
+2020-09-10 16:15:47.8306 INFO Returned user with id: jancosteen
+2020-09-10 16:18:32.4900 INFO Returned user with id: jancosteen
+2020-09-10 16:21:32.8194 INFO Returned user with id: jancosteen
+2020-09-10 16:27:05.9341 INFO Returned user with id: jancosteen
+2020-09-10 16:27:57.0635 INFO Returned user with id: jancosteen
+2020-09-10 16:28:48.4279 INFO Returned user with id: jancosteen
+2020-09-10 16:30:15.5543 INFO Returned user with id: jancosteen
+2020-09-10 16:38:55.2269 INFO Returned user with id: jancosteen
+2020-09-10 16:38:57.5122 INFO Returned all restaurants from db.
+2020-09-10 16:40:31.5610 INFO Returned user with id: jancosteen
+2020-09-10 16:40:34.3512 INFO Returned all restaurants from db.
+2020-09-10 16:42:53.0096 INFO Returned user with id: jancosteen
+2020-09-10 16:46:50.1342 INFO Returned user with id: Lusanda123
+2020-09-10 16:48:13.4949 INFO Returned user with id: jancosteen
+2020-09-10 16:53:49.9037 INFO Returned user with id: jancosteen
+2020-09-10 16:53:56.2238 INFO Returned all restaurants from db.
+2020-09-10 16:55:09.8501 INFO Returned user with id: jancosteen
+2020-09-10 16:55:14.2682 INFO Returned all restaurants from db.
+2020-09-10 16:56:02.2984 INFO Returned user with id: jancosteen
+2020-09-10 16:56:05.6769 INFO Returned all restaurants from db.
+2020-09-10 16:56:57.1890 INFO Returned user with id: jancosteen
+2020-09-10 16:56:59.8524 INFO Returned all restaurants from db.
+2020-09-10 19:24:32.1031 INFO Returned user with id: jancosteen
+2020-09-10 19:24:41.4374 INFO Returned all restaurants from db.
+2020-09-10 19:27:56.9663 INFO Returned user with id: jancosteen
+2020-09-10 19:29:19.1188 INFO qrCode with details for id: 900
+2020-09-10 19:29:19.3447 INFO qrCode with details for id: 900
+2020-09-10 19:29:19.4803 INFO Returned restaurant with id: 227
+2020-09-10 19:29:19.5258 ERROR Something went wrong inside CreateQrCodeSeating action: Cannot insert duplicate key row in object 'dbo.QrCode_Seating' with unique index 'AK_QrCode_Seating_QrCode_Id_FK'. The duplicate key value is (900).
+The statement has been terminated.
+2020-09-10 19:29:19.5258 ERROR Something went wrong inside CreateQrCodeSeating action: Cannot insert duplicate key row in object 'dbo.QrCode_Seating' with unique index 'AK_QrCode_Seating_QrCode_Id_FK'. The duplicate key value is (900).
+The statement has been terminated.
+2020-09-10 19:33:10.3896 ERROR qrCode with id: 1026, hasn't been found in db.
+2020-09-10 19:33:10.4145 ERROR Something went wrong inside CreateQrCodeSeating action: The INSERT statement conflicted with the FOREIGN KEY constraint "QrCode_Seating_Seating_FK". The conflict occurred in database "OrderMateDBFinal", table "dbo.Seating", column 'SeatingId'.
+The statement has been terminated.
+2020-09-10 19:33:11.3267 ERROR qrCode with id: 1026, hasn't been found in db.
+2020-09-10 19:33:11.3267 ERROR Something went wrong inside CreateQrCodeSeating action: The INSERT statement conflicted with the FOREIGN KEY constraint "QrCode_Seating_Seating_FK". The conflict occurred in database "OrderMateDBFinal", table "dbo.Seating", column 'SeatingId'.
+The statement has been terminated.
+2020-09-10 19:33:39.2450 INFO Returned user with id: jancosteen
+2020-09-10 19:36:05.1529 ERROR qrCode with id: 1026, hasn't been found in db.
+2020-09-10 19:36:05.1589 ERROR Something went wrong inside CreateQrCodeSeating action: The INSERT statement conflicted with the FOREIGN KEY constraint "QrCode_Seating_Seating_FK". The conflict occurred in database "OrderMateDBFinal", table "dbo.Seating", column 'SeatingId'.
+The statement has been terminated.
+2020-09-10 19:36:10.1142 ERROR qrCode with id: 1026, hasn't been found in db.
+2020-09-10 19:36:10.1142 ERROR Something went wrong inside CreateQrCodeSeating action: The INSERT statement conflicted with the FOREIGN KEY constraint "QrCode_Seating_Seating_FK". The conflict occurred in database "OrderMateDBFinal", table "dbo.Seating", column 'SeatingId'.
+The statement has been terminated.
+2020-09-10 19:36:26.0644 ERROR qrCode with id: 1026, hasn't been found in db.
+2020-09-10 19:36:26.0644 ERROR Something went wrong inside CreateQrCodeSeating action: The INSERT statement conflicted with the FOREIGN KEY constraint "QrCode_Seating_Seating_FK". The conflict occurred in database "OrderMateDBFinal", table "dbo.Seating", column 'SeatingId'.
+The statement has been terminated.
+2020-09-10 19:38:39.9196 INFO Returned user with id: jancosteen
+2020-09-10 19:38:54.0574 ERROR qrCode with id: 1026, hasn't been found in db.
+2020-09-10 19:38:54.0622 ERROR Something went wrong inside CreateQrCodeSeating action: The INSERT statement conflicted with the FOREIGN KEY constraint "QrCode_Seating_Seating_FK". The conflict occurred in database "OrderMateDBFinal", table "dbo.Seating", column 'SeatingId'.
+The statement has been terminated.
+2020-09-10 19:41:09.0583 INFO Returned user with id: jancosteen
+2020-09-10 19:43:19.6433 INFO Returned user with id: jancosteen
+2020-09-10 19:43:35.7629 INFO qrCode with details for id: 1025
+2020-09-10 19:50:27.3101 INFO Returned user with id: jancosteen
+2020-09-10 19:50:39.0327 INFO qrCode with details for id: 1025
+2020-09-10 19:50:39.0327 ERROR Something went wrong inside CreateQrCodeSeating action: Cannot insert duplicate key row in object 'dbo.QrCode_Seating' with unique index 'AK_QrCode_Seating_QrCode_Id_FK'. The duplicate key value is (1025).
+The statement has been terminated.
+2020-09-10 19:50:39.1128 INFO Returned restaurant with id: 2
+2020-09-10 19:51:31.6394 INFO Returned user with id: jancosteen
+2020-09-10 19:51:41.3682 INFO qrCode with details for id: 1025
+2020-09-10 19:51:41.3748 ERROR Something went wrong inside CreateQrCodeSeating action: Violation of PRIMARY KEY constraint 'QrCode_Seating_PK'. Cannot insert duplicate key in object 'dbo.QrCode_Seating'. The duplicate key value is (1025, 1025).
+The statement has been terminated.
+2020-09-10 19:51:41.4489 INFO Returned restaurant with id: 2
+2020-09-10 19:52:01.5030 INFO Returned user with id: jancosteen
+2020-09-10 19:52:20.8238 ERROR qrCode with id: 1026, hasn't been found in db.
+2020-09-10 19:52:20.8309 ERROR Something went wrong inside CreateQrCodeSeating action: The INSERT statement conflicted with the FOREIGN KEY constraint "QrCode_Seating_Seating_FK". The conflict occurred in database "OrderMateDBFinal", table "dbo.Seating", column 'SeatingId'.
+The statement has been terminated.
+2020-09-10 19:53:16.5658 INFO Returned user with id: jancosteen
+2020-09-10 19:53:30.5229 INFO qrCode with details for id: 1001
+2020-09-10 19:53:30.6166 INFO Returned restaurant with id: 1
+2020-09-10 19:54:50.8923 INFO Returned user with id: jancosteen
+2020-09-10 19:55:01.1195 INFO qrCode with details for id: 1002
+2020-09-10 19:56:37.6817 INFO Returned user with id: jancosteen
+2020-09-10 19:56:49.1887 INFO qrCode with details for id: 1003
+2020-09-10 19:57:04.5251 INFO Returned all restaurants from db.
+2020-09-10 19:57:10.2180 INFO Returned restaurant with id: 300
+2020-09-10 19:57:13.8137 INFO menu with details for id: 300
+2020-09-10 19:58:13.7242 INFO Returned all qrCodes from db.
+2020-09-10 19:58:25.3969 INFO qrCode with details for id: 1003
+2020-09-10 19:58:37.2284 INFO qrCode with details for id: 1004
+2020-09-10 19:58:40.3968 INFO qrCode with details for id: 1005
+2020-09-10 19:59:19.2120 INFO Returned user with id: jancosteen
+2020-09-10 19:59:27.3385 INFO qrCode with details for id: 1005
+2020-09-10 19:59:27.4103 INFO Returned restaurant with id: 2
+2020-09-10 19:59:43.0431 INFO menu with details for id: 2
+2020-09-10 19:59:57.2287 INFO Returned order with id: 1023
+2020-09-10 20:05:39.8908 INFO Returned user with id: jancosteen
+2020-09-10 20:05:46.2639 INFO Returned all restaurants from db.
+2020-09-10 20:05:52.8816 INFO Returned restaurant with id: 300
+2020-09-10 20:05:57.9433 INFO Returned all restaurants from db.
+2020-09-10 20:14:39.4706 INFO Returned user with id: jancosteen
+2020-09-10 20:14:41.5631 INFO Returned all restaurants from db.
+2020-09-10 20:16:26.9618 INFO Returned all reservations from db.
+2020-09-10 20:18:14.7867 INFO Returned user with id: jancosteen
+2020-09-10 20:18:16.4120 INFO Returned all restaurants from db.
+2020-09-10 20:20:17.4499 INFO Returned user with id: jancosteen
+2020-09-10 20:20:18.8294 INFO Returned all restaurants from db.
+2020-09-10 20:21:25.4246 INFO Returned user with id: jancosteen
+2020-09-10 20:21:27.5985 INFO Returned all restaurants from db.
+2020-09-10 20:30:52.6300 INFO Returned user with id: jancosteen
+2020-09-10 20:30:59.1366 INFO Returned all restaurants from db.
+2020-09-10 20:31:05.3194 INFO Returned restaurant with id: 300
+2020-09-10 20:31:08.3905 INFO Returned all restaurants from db.
+2020-09-10 20:32:57.8884 INFO Returned user with id: jancosteen
+2020-09-10 20:33:02.1058 INFO Returned all restaurants from db.
+2020-09-10 20:33:09.1980 INFO Returned restaurant with id: 300
+2020-09-10 20:33:12.2985 INFO Returned all restaurants from db.
+2020-09-10 20:38:06.0271 INFO Returned user with id: jancosteen
+2020-09-10 20:38:10.2442 INFO Returned all restaurants from db.
+2020-09-10 20:38:16.3125 INFO Returned restaurant with id: 300
+2020-09-10 20:38:20.9536 INFO Returned all restaurants from db.
+2020-09-10 20:38:35.9746 ERROR Something went wrong inside CreateReservation action: Input string was not in a correct format.
+2020-09-10 20:38:35.9746 ERROR Something went wrong inside CreateReservation action: Input string was not in a correct format.
+2020-09-10 20:39:29.2000 INFO Returned user with id: jancosteen
+2020-09-10 20:39:33.4570 INFO Returned all restaurants from db.
+2020-09-10 20:42:49.0204 INFO Returned user with id: jancosteen
+2020-09-10 20:42:50.1415 INFO Returned all restaurants from db.
+2020-09-10 21:08:27.0508 INFO Returned all reservations from db.
+2020-09-10 21:20:06.0719 INFO Returned user with id: jancosteen
+2020-09-10 21:21:00.5948 INFO Returned user with id: jancosteen
+2020-09-10 21:21:02.0582 INFO Returned all reservations from db.
+2020-09-10 21:22:14.9164 INFO Returned user with id: jancosteen
+2020-09-10 21:22:16.3413 INFO Returned all reservations from db.
+2020-09-10 21:23:16.5362 INFO Returned user with id: jancosteen
+2020-09-10 21:23:17.7960 INFO Returned all reservations from db.
+2020-09-10 21:23:55.3601 INFO Returned user with id: jancosteen
+2020-09-10 21:24:17.1887 INFO Returned all reservations from db.
+2020-09-10 21:28:07.1601 INFO Returned user with id: jancosteen
+2020-09-10 21:28:08.3295 INFO Returned all reservations from db.
+2020-09-10 21:34:37.8641 INFO Returned user with id: jancosteen
+2020-09-10 21:34:40.9226 INFO Returned all reservations from db.
+2020-09-10 21:35:34.6548 INFO Returned user with id: jancosteen
+2020-09-10 21:35:36.1724 INFO Returned all reservations from db.
+2020-09-10 21:37:08.0633 INFO Returned user with id: jancosteen
+2020-09-10 21:37:10.6159 INFO Returned all reservations from db.
+2020-09-10 21:40:22.6683 INFO Returned user with id: jancosteen
+2020-09-10 21:40:24.2866 INFO Returned all reservations from db.
+2020-09-10 22:26:46.7265 INFO Returned user with id: jancosteen
+2020-09-10 22:26:53.3046 INFO Returned all reservations from db.
+2020-09-10 22:27:19.8990 INFO Returned all restaurants from db.
+2020-09-10 22:27:38.7475 INFO Returned restaurant with id: 300
+2020-09-10 22:27:43.3415 INFO menu with details for id: 300
+2020-09-10 22:29:18.6439 INFO qrCode with details for id: 1006
+2020-09-10 22:29:18.8535 INFO Returned restaurant with id: 2
+2020-09-10 22:29:25.7153 INFO menu with details for id: 2
+2020-09-10 22:29:31.7390 INFO Returned order with id: 1024
+2020-09-10 22:29:51.4238 INFO Returned user with id: jancosteen
+2020-09-10 22:29:58.9530 INFO Returned all reservations from db.
+2020-09-10 22:30:02.6647 INFO Returned all restaurants from db.
+2020-09-10 22:30:13.8675 INFO Returned restaurant with id: 300
+2020-09-10 22:30:16.9298 INFO Returned all restaurants from db.
+2020-09-10 22:30:40.5790 INFO Returned user with id: jancosteen
+2020-09-10 22:30:44.4929 INFO Returned all reservations from db.
+2020-09-10 22:31:07.6451 INFO Returned user with id: jancosteen
+2020-09-10 22:31:12.5578 INFO Returned all restaurants from db.
+2020-09-10 22:31:19.0587 INFO Returned restaurant with id: 300
+2020-09-10 22:31:22.1292 INFO menu with details for id: 300
+2020-09-10 22:33:01.0788 INFO Returned all qrCodes from db.
+2020-09-10 22:34:21.0265 INFO Returned all qrCodeSeatings records from database
+2020-09-10 22:35:10.9641 INFO Returned order with id: 1025
+2020-09-10 22:46:31.3792 INFO Returned user with id: duansteen
+2020-09-10 22:46:46.1270 INFO Returned all reservations from db.
+2020-09-10 22:46:52.0408 INFO Returned all restaurants from db.
+2020-09-10 22:47:55.9546 INFO Returned restaurant with id: 300
+2020-09-10 22:48:48.0772 INFO Returned user with id: jancosteen
+2020-09-10 22:48:59.2024 INFO Returned user with id: jancosteen
+2020-09-10 23:07:14.1794 INFO Returned user with id: jancosteen
+2020-09-10 23:08:12.5390 INFO qrCode with details for id: 1007
+2020-09-10 23:08:12.6215 INFO Returned restaurant with id: 2
+2020-09-10 23:08:17.4407 INFO menu with details for id: 2
+2020-09-10 23:08:21.0571 INFO Returned order with id: 1026
+2020-09-10 23:26:46.5656 INFO Returned user with id: jancosteen
+2020-09-10 23:26:58.4124 INFO qrCode with details for id: 1008
+2020-09-10 23:26:58.5241 INFO Returned restaurant with id: 3
+2020-09-10 23:27:02.9988 INFO menu with details for id: 3
+2020-09-10 23:28:29.6668 INFO Returned user with id: jancosteen
+2020-09-10 23:28:37.7473 INFO qrCode with details for id: 1009
+2020-09-10 23:28:37.8270 ERROR Something went wrong inside CreateQrCodeSeating action: The INSERT statement conflicted with the FOREIGN KEY constraint "QrCode_Seating_Seating_FK". The conflict occurred in database "OrderMateDBFinal", table "dbo.Seating", column 'SeatingId'.
+The statement has been terminated.
+2020-09-10 23:28:37.8570 INFO Returned restaurant with id: 3
+2020-09-10 23:28:50.4666 INFO Returned all restaurants from db.
+2020-09-10 23:28:53.9190 INFO Returned all restaurants from db.
+2020-09-10 23:28:59.8566 INFO Returned restaurant with id: 300
+2020-09-10 23:29:02.7770 INFO menu with details for id: 300
+2020-09-10 23:29:06.1754 INFO Returned order with id: 1027
+2020-09-10 23:30:31.8202 INFO Returned user with id: jancosteen
+2020-09-10 23:30:41.5439 INFO qrCode with details for id: 1010
+2020-09-10 23:30:41.6102 INFO Returned restaurant with id: 2
+2020-09-10 23:30:54.7340 INFO menu with details for id: 2
+2020-09-10 23:30:59.0187 INFO Returned order with id: 1028
+2020-09-10 23:31:35.8123 INFO Returned order with id: 1029
+2020-09-10 23:52:16.9882 INFO Returned user with id: jancosteen
+2020-09-10 23:52:42.2685 INFO qrCode with details for id: 1011
+2020-09-10 23:52:42.3503 INFO Returned restaurant with id: 2
+2020-09-10 23:53:49.3805 INFO Returned qrCode with id: 1012
+2020-09-10 23:54:18.3444 INFO Returned user with id: jancosteen
+2020-09-10 23:54:31.2997 INFO qrCode with details for id: 1012
+2020-09-10 23:54:31.3747 INFO Returned restaurant with id: 2
+2020-09-10 23:54:35.8857 INFO menu with details for id: 2
+2020-09-10 23:54:39.4905 INFO Returned order with id: 1030
+2020-09-10 23:55:18.4455 INFO Returned user with id: jancosteen

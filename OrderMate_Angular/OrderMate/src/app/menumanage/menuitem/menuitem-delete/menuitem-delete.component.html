@@ -1,0 +1,48 @@
+<div class="card card-body bg-light mb-2 mt-2 offset-2 col-md-8">
+  <div class="row">
+    <div class="col-md-4">
+      <strong>Menu Item Id:</strong>
+    </div>
+    <div class="col-md-4">
+      {{menuItem?.menuItemId}}
+    </div>
+  </div>
+  <div class="row">
+    <div class="col-md-4">
+      <strong>Menu Item Name:</strong>
+    </div>
+    <div class="col-md-4">
+      {{menuItem?.menuItemName}}
+    </div>
+  </div>
+
+
+      
+
+
+
+  <div class="row">
+    <div class="col-md-offset-8 col-md-2">
+      <button type="submit" class="btn btn-info" (click)="delete()">Delete</button>
+    </div>
+    <div class="col-md-2">
+      <button type="button" class="btn btn-danger" (click)="redirectToList()">Cancel</button>
+    </div>
+  </div>
+
+
+</div>  
+
+  
+  
+  
+  <app-success-modal [modalHeaderText]="'Success message'" 
+    [modalBodyText]="'Action completed successfully'" 
+    [okButtonText]="'OK'"
+    (redirectOnOK)="redirectToList()">
+  </app-success-modal>
+   
+  <app-error-modal [modalHeaderText]="'Error message'" 
+    [modalBodyText]="errorMessage" 
+    [okButtonText]="'OK'">
+  </app-error-modal>
